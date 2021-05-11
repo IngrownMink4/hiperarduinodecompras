@@ -1,5 +1,5 @@
 # Hiper Arduino de Compras (H.A.C) 🦸‍♂️🛒
-🦸🏿‍♀️🦸🏻‍♂️ An ambitious, Arduino-based project to monitor physical shopping carts, written in Rust. It's based in my previous project, Super Arduino de Compras.
+🦸🏿‍♀️🦸🏻‍♂️ An ambitious, Arduino-based project to monitor physical shopping carts, written in Rust. It's based in my previous project, [Super Arduino de Compras](https://github.com/IngrownMink4/superarduinodecompras/). This project could be considered a port instead of a bifurcation.
 
 ## **What is our main goal for the project?**
 We create this project because it seems important to us to take care of our health, and above all, after having lived through a situation like this. Therefore, to find a solution, it occurred to us to monitor a shopping cart using light sensors. In this way, we would save ourselves from having to touch the cars that other people have touched. This will help prevent new Covid-19 infections.
