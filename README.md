@@ -1,4 +1,4 @@
-# Hiper Arduino de Compras (H.A.C) 🦸‍♂️🛒
+# Hiper Arduino de Compras (H.A.C) ⚡🦸‍♂️🛒
 🦸🏿‍♀️🦸🏻‍♂️ An ambitious, Arduino-based project to monitor physical shopping carts, written in Rust. It's based in my previous project, [Super Arduino de Compras](https://github.com/IngrownMink4/superarduinodecompras/). This project could be considered a port instead of a bifurcation.
 
 ## **What is our main goal for the project?**
